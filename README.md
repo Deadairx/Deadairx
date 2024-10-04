@@ -13,3 +13,5 @@
 - 💬 Ask me about ...
     - Vim
     - Dvorak
+
+[Blog](./blog/2024.10.03.md)
