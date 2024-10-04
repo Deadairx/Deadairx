@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # Tech that I want to learn more about
 - FFI boundries
+    - WASM
 - Embedded
 - Local-first
 - Mutation Testing
