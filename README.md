@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
-    - [Self hosting World of Warcraft](https://github.com/Deadairx/WoW-self-host)
+# Tech that I want to learn more about
+- FFI boundries
+- Embedded
+- Local-first
+- Mutation Testing
 
-- 🌱 I’m currently learning ...
-    - Clojure
-        - [AoC challenges](https://github.com/Deadairx/advent-of-code/tree/main/clojure)
 
 - 💬 Ask me about ...
     - Vim
