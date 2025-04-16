@@ -3,12 +3,8 @@
 -->
 
 ### Tech that I want to learn more about
-- FFI boundries
-    - WASM
-- Embedded
-- Local-first
-- Mutation Testing
-
+<!-- TODO: link to current favorite project on this  -->
+- Telegram Bots
 
 - 💬 Ask me about ...
     - Vim
