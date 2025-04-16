@@ -10,8 +10,8 @@
 - Mutation Testing
 
 
-- 💬 Ask me about ...
+### 💬 Ask me about ...
+    - [ Testing standards ](./TESTING.md)
     - Vim
     - Dvorak
 
-[Blog](./blog/2024.10.03.md)
